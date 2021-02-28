@@ -1,4 +1,4 @@
-# Remove Duplicates from sorted Array (EASY)
+#26. Remove Duplicates from sorted Array (EASY)
 
 # Method 1: del
 
